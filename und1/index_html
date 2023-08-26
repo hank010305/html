@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body text="red">
+    <h1>Aqui será Exibido o texto com a cor padrao da pagina, e no maior tamanho possuivel</h1>
+    <h2>Aqui será Exibido o texto com a cor padrao da pagina, e no maior tamanho possuivel</h2>
+    <h3>Aqui será Exibido o texto com a cor padrao da pagina, e no maior tamanho possuivel</h3>
+    <h4>Aqui será Exibido o texto com a cor padrao da pagina, e no maior tamanho possuivel</h4>
+    <h5>Aqui será Exibido o texto com a cor padrao da pagina, e no maior tamanho possuivel</h5>
+    <h6>Aqui será Exibido o texto com a cor padrao da pagina, e no maior tamanho possuivel</h6>
+</body>
+</html>
